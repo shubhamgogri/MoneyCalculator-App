@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cal</string>
+    <string name="calc">Cal</string>
+    <string name="zero_initial">00</string>
+    <string name="list">Previous Calculations</string>
+    <string name="show_list">Show List</string>
+    <string name="save">Save</string>
+    <string name="title">Title</string>
+</resources>
