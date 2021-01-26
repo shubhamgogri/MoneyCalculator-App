@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "331603399146",
+    "project_id": "calculator-caabe",
+    "storage_bucket": "calculator-caabe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331603399146:android:dd050ee44cfcd925f1a293",
+        "android_client_info": {
+          "package_name": "com.example.cal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331603399146-s2g1cho1c9p62020tiir4a8c7bdh2t1s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cal",
+            "certificate_hash": "298ef6c82332c5dbbe127d86ffa6b0e0176c8712"
+          }
+        },
+        {
+          "client_id": "331603399146-rdjvgcumpplnlh9tcpoqrs05edbs2q6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwehLF3sIEYTZmRPptzvadLmVCJ-sTUC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331603399146-rdjvgcumpplnlh9tcpoqrs05edbs2q6m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
